@@ -1,3 +1,20 @@
+## IDHub & MagicCircle v0.1版本开发计划表
+当前版本：v0.0.1
+
+建议查看更加易读的[HTML页面](https://htmlpreview.github.io/?https://github.com/idhub-did-plus/requirements/blob/master/schedule/schedule.html)
+
+### 关键词说明
+
+* ST：指Security Token
+* 钱包功能：指以太坊密钥和地址管理
+* 资产功能：指ETH、ERC20、ST显示与管理
+* 数字身份：指IDHub设计的去中心化数字身份及合规投资相关身份
+* 我的功能：指常见移动端“我的”导航页面内的功能
+* ST交易：指采用0x协议的去中心化ST交易
+* ST发行：指借鉴ERC1400和polymath ST3.0形成的ST发行方案
+
+### 计划表
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#9ABAD9;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#9ABAD9;color:#444;background-color:#EBF5FF;}
